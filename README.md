@@ -6,9 +6,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **MACHINE LEARNING***
 
-- 🌱 I’m currently learning and **MACHINE LEARNING***
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Data Structures and Algorithms, C++, JAVASCRIPT, Python, Machine Learning**
 
